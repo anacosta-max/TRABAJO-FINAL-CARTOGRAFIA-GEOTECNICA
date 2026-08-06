@@ -1,0 +1,1 @@
+AUC (curva ROC, sobre la muestra de ajuste, n=256): 0.8690

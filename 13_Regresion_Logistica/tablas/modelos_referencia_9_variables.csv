@@ -1,0 +1,4 @@
+﻿modelo_referencia,variable_excluida,n_variables,n_parametros,log_verosimilitud,AIC,pseudo_R2_McFadden,LLR_p_value
+Sin uso_actual,uso_actual,9,29,-112.449,282.9,0.3663,4.370259354773348e-15
+Sin cobertura,cobertura,9,25,-112.433,274.87,0.3664,1.5351555588201785e-16
+Nulo (solo intercepto),(todas),0,1,-177.446,356.89,0.0,

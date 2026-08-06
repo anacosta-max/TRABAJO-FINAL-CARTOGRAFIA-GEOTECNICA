@@ -1,0 +1,4 @@
+﻿metodo,n_pasos,variables_seleccionadas,n_variables,AIC_final,pseudo_R2_McFadden_final
+Forward selection,5,"uso_actual, geologia, geomorfologia, curvatura, dist_drenajes",5,268.93,0.3606
+Backward elimination,5,"curvatura, dist_drenajes, uso_actual, geologia, geomorfologia",5,268.93,0.3606
+Stepwise bidireccional,5,"uso_actual, geologia, geomorfologia, curvatura, dist_drenajes",5,268.93,0.3606

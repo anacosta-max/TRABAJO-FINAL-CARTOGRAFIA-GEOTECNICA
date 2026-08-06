@@ -1,0 +1,10 @@
+﻿variable,categoria_original,n_obs,destino
+cobertura,9.0,2,Otras
+cobertura,10.0,2,Otras
+cobertura,3.0,1,Otras
+cobertura,14.0,1,Otras
+uso_actual,30212.0,2,fusionada con categoría mayoritaria 30204.0
+uso_actual,30211.0,2,fusionada con categoría mayoritaria 30204.0
+geologia,5.0,1,fusionada con categoría mayoritaria 3.0
+geomorfologia,11.0,4,Otras
+geomorfologia,13.0,3,Otras

@@ -1,0 +1,6 @@
+﻿paso,accion,variable,variables_en_modelo,n_variables,AIC,pseudo_R2_McFadden,delta_AIC,LR_estadistico,LR_gl,LR_p_valor
+1,"quitar (punto de partida, modelo de 10 no identificable)",cobertura,"pendiente, aspecto, curvatura, flujo_acum, elevacion, dist_drenajes, uso_actual, geologia, geomorfologia",9,274.87,0.3664,,,,
+2,quitar,flujo_acum,"pendiente, aspecto, curvatura, elevacion, dist_drenajes, uso_actual, geologia, geomorfologia",8,272.91,0.3663,-1.95,0.046,1.0,0.8308367907485561
+3,quitar,pendiente,"aspecto, curvatura, elevacion, dist_drenajes, uso_actual, geologia, geomorfologia",7,270.98,0.3661,-1.94,0.065,1.0,0.7991206225077646
+4,quitar,elevacion,"aspecto, curvatura, dist_drenajes, uso_actual, geologia, geomorfologia",6,269.2,0.3654,-1.77,0.228,1.0,0.6329765343518818
+5,quitar,aspecto,"curvatura, dist_drenajes, uso_actual, geologia, geomorfologia",5,268.93,0.3606,-0.27,1.73,1.0,0.1883959772476209
