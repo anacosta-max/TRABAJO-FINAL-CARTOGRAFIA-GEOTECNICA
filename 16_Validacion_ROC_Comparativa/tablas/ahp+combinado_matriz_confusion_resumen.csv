@@ -1,0 +1,2 @@
+﻿modelo,umbral_referencia,TP,FP,TN,FN,exactitud,precision,recall_sensibilidad,especificidad,AUC
+AHP+Combinado,0.49159631,79,49,79,49,0.6171875,0.6171875,0.6171875,0.6171875,0.667266845703125

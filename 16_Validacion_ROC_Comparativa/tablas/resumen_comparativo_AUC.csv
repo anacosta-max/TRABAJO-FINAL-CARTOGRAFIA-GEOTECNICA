@@ -1,0 +1,5 @@
+﻿modelo,tipo,curva,n_puntos,AUC,clasificación (Swets 1988)
+AHP + Combinado,Heurístico,Única (sin partición),256,0.667,Aceptable (mejor que el azar)
+WoE (Peso de la Evidencia),Heurístico,Única (sin partición),256,0.819,Moderado (moderadamente preciso)
+Regresión Logística,Estadístico/datos,"Entrenamiento (80%, predicción)",204,0.898,Moderado (moderadamente preciso)
+Regresión Logística,Estadístico/datos,"Validación (20%, éxito)",51,0.729,Moderado (moderadamente preciso)

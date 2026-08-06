@@ -1,0 +1,2 @@
+﻿modelo,umbral_referencia,TP,FP,TN,FN,exactitud,precision,recall_sensibilidad,especificidad,AUC
+Indices,0.4794425,78,50,78,50,0.609375,0.609375,0.609375,0.609375,0.673126220703125

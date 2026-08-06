@@ -1,0 +1,2 @@
+﻿modelo,n_puntos_validos,umbral_referencia,TP,FP,TN,FN,exactitud,precision,recall_sensibilidad,especificidad,AUC
+WoE,256,-0.6749761402606964,98,30,98,30,0.765625,0.765625,0.765625,0.765625,0.81884765625

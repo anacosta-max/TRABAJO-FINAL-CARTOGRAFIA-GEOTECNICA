@@ -1,0 +1,5 @@
+﻿modelo,conjunto,umbral,FPR,TPR,distancia_clasificacion_perfecta_r,AUC,clasificacion_Swets_1988
+AHP+Combinado,Único (sin partición),0.49159631,0.3828125,0.6171875,0.5413786293459505,0.667266845703125,Aceptable (mejor que el azar)
+WoE,Único (sin partición),-0.6749761402606964,0.234375,0.765625,0.33145630368119416,0.81884765625,Moderado (moderadamente preciso)
+Regresión Logística,"Entrenamiento (80%, umbral=0.5)",0.5,0.13725490196078433,0.803921568627451,0.23934422775948436,0.8982122260668974,Moderado (moderadamente preciso)
+Regresión Logística,"Prueba/validación (20%, umbral=0.5)",0.5,0.2692307692307692,0.72,0.3884394510095386,0.7292307692307691,Moderado (moderadamente preciso)

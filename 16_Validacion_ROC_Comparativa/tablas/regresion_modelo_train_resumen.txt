@@ -1,0 +1,36 @@
+Modelo final reajustado SOLO con el 80 por ciento de entrenamiento (n=204)
+
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:             inventario   No. Observations:                  204
+Model:                          Logit   Df Residuals:                      183
+Method:                           MLE   Df Model:                           20
+Date:                Tue, 04 Aug 2026   Pseudo R-squ.:                  0.4240
+Time:                        01:03:47   Log-Likelihood:                -81.448
+converged:                       True   LL-Null:                       -141.40
+Covariance Type:            nonrobust   LLR p-value:                 2.967e-16
+==========================================================================================================================
+                                                             coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------------------
+Intercept                                                 -2.8165      0.827     -3.404      0.001      -4.438      -1.195
+C(uso_actual, Treatment(reference=30204.0))[T.30202.0]    -0.0942      0.795     -0.119      0.906      -1.652       1.463
+C(uso_actual, Treatment(reference=30204.0))[T.30206.0]     1.9010      0.609      3.120      0.002       0.707       3.095
+C(uso_actual, Treatment(reference=30204.0))[T.30207.0]     1.7704      0.648      2.731      0.006       0.500       3.041
+C(uso_actual, Treatment(reference=30204.0))[T.30213.0]     3.0404      0.825      3.684      0.000       1.423       4.658
+C(geologia, Treatment(reference=3.0))[T.1.0]              -0.9003      1.498     -0.601      0.548      -3.836       2.035
+C(geologia, Treatment(reference=3.0))[T.2.0]               3.2296      1.022      3.159      0.002       1.226       5.234
+C(geologia, Treatment(reference=3.0))[T.4.0]              -2.5392      2.453     -1.035      0.301      -7.348       2.269
+C(geologia, Treatment(reference=3.0))[T.6.0]               1.7867      0.648      2.757      0.006       0.517       3.057
+C(geomorfologia, Treatment(reference=9.0))[T.1.0]          0.1682      1.010      0.167      0.868      -1.811       2.148
+C(geomorfologia, Treatment(reference=9.0))[T.2.0]          2.0702      1.003      2.063      0.039       0.104       4.037
+C(geomorfologia, Treatment(reference=9.0))[T.3.0]         -0.7640      1.251     -0.611      0.542      -3.217       1.689
+C(geomorfologia, Treatment(reference=9.0))[T.4.0]         -1.1508      0.874     -1.317      0.188      -2.864       0.562
+C(geomorfologia, Treatment(reference=9.0))[T.5.0]          5.0777      2.508      2.025      0.043       0.163       9.993
+C(geomorfologia, Treatment(reference=9.0))[T.6.0]         -1.5119      0.911     -1.660      0.097      -3.297       0.273
+C(geomorfologia, Treatment(reference=9.0))[T.7.0]         -0.4607      1.373     -0.336      0.737      -3.152       2.231
+C(geomorfologia, Treatment(reference=9.0))[T.10.0]         1.4937      0.802      1.863      0.062      -0.078       3.065
+C(geomorfologia, Treatment(reference=9.0))[T.12.0]        -0.2437      0.821     -0.297      0.767      -1.853       1.366
+C(geomorfologia, Treatment(reference=9.0))[T.9999.0]      -0.1470      1.370     -0.107      0.915      -2.831       2.537
+curvatura                                                  0.2031      0.092      2.199      0.028       0.022       0.384
+dist_drenajes                                              0.0010      0.001      1.191      0.233      -0.001       0.003
+==========================================================================================================================
