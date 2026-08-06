@@ -1,0 +1,11 @@
+variable,nivel_importancia,peso_ahp,peso_indices
+pendiente,muy_alto,0.2423,0.20
+geologia,muy_alto,0.2423,0.20
+aspecto,alto,0.1104,0.12
+curvatura,alto,0.1104,0.12
+flujo_acum,alto,0.1104,0.12
+elevacion,medio,0.0467,0.06
+dist_drenajes,medio,0.0467,0.06
+geomorfologia,medio,0.0467,0.06
+cobertura,bajo,0.0220,0.03
+uso_actual,bajo,0.0220,0.03
